@@ -32,7 +32,7 @@ This is a Rust program that implements Kruskal's Algorithm to find the Minimum S
 ...
 ~~~
 
-For example:
+- For example:
 ~~~
 1 -- 3 : 1
 0 -- 1 : 2
